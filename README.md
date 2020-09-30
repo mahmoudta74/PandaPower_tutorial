@@ -6,7 +6,7 @@
 
 
 ## PandaPower Features
-![alt text here]https://github.com/mahmoudta74/PandaPower_tutorial/blob/master/fetures.png "Title: pandapower logo")
+![alt text here](https://github.com/mahmoudta74/PandaPower_tutorial/blob/master/fetures.png "Title: pandapower logo")
 
 
 ## table of content
