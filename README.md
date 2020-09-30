@@ -10,3 +10,5 @@
 
 
 ## table of content
+
+- [Simple load  minimal example & powerflow](https://github.com/mahmoudta74/PandaPower_tutorial/blob/master/pandapower1.ipynb)
